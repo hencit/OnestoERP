@@ -1,0 +1,2172 @@
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.exe.config
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.exe
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.pdb
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.xml
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.exe
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.xml
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Onesto\Onesto\Onesto\bin\Debug\Onesto.exe.config
+D:\Onesto\Onesto\Onesto\bin\Debug\Onesto.exe
+D:\Onesto\Onesto\Onesto\bin\Debug\Onesto.pdb
+D:\Onesto\Onesto\Onesto\bin\Debug\Onesto.xml
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmRegis.resources
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.exe
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.xml
+D:\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Other\Onesto\Onesto\Onesto\bin\Debug\Onesto.application
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.frmRegis.resources
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Other\Onesto\Onesto\Onesto\obj\x86\Debug\Onesto.application
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.exe.config
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.exe
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.xml
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.application
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.exe
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.pdb
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\bin\Debug\Onesto.xml
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.frmRegis.resources
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Onesto\Onesto 28.02.15\Onesto\Onesto\obj\x86\Debug\Onesto.application
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.exe.config
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.exe
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.xml
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.frmPO.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.frmRegis.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.application
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.exe
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.pdb
+D:\Onesto\Vortox\Onesto\Onesto\bin\Debug\Onesto.xml
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Onesto\Vortox\Onesto\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 29-6-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 3-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 7-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 9-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 12-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 12-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 12-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 12-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 12-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\New folder\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\New folder\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 21-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 22-7-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 25-7-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 27-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 28-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 29-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugas.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.frmKasihTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 30-7-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 31-7-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 31-7-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 31-7-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 31-7-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 31-7-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 1-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 2-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 3-8-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 4-8-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 6-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 7-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmJabatan.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmKaryawan.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlJabatan.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Ontesto 8-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 8-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 8-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 8-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 8-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 8-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 9-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 9-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 9-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 9-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 9-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15 B\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15 B\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15 B\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15 B\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 10-8-15 B\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 11-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 12-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 16-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 17-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 18-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 19-8-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 19-8-15 B\Onesto\obj\x86\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.application
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Hendra Project\Adie - ET Store\Onesto - Adie\Onesto 20-8-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 20-8-15 B\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 21-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.pdb
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\bin\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Adie\Onesto - Adie\Onesto 27-8-15\Onesto\obj\x86\Debug\Onesto.application
+G:\Adie\Onesto - Adie\Onesto 4-9-15\Onesto\bin\Debug\Onesto.exe.config
+G:\Adie\Onesto - Adie\Onesto 4-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+G:\Adie\Onesto - Adie\Onesto 4-9-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\Adie\Onesto - Adie\Onesto 4-9-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\Adie\Onesto - Adie\Onesto 4-9-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 5-9-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\bin\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\Adie\Onesto - Adie\Onesto 23-9-15\Onesto\obj\x86\Debug\Onesto.application
+D:\Adie\Onesto - Adie\Onesto 28-9-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 28-9-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 28-9-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 28-9-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 28-9-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\Adie\Onesto - Adie\Onesto 3-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\Adie\Onesto - Adie\Onesto 3-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\Adie\Onesto - Adie\Onesto 3-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\Adie\Onesto - Adie\Onesto 3-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\Adie\Onesto - Adie\Onesto 3-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.application
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.exe
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 14-10-15\Onesto\bin\Debug\Onesto.xml
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.application
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+D:\SFood\Onesto Resto 14-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.application
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.exe
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 15-10-15\Onesto\bin\Debug\Onesto.xml
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.application
+D:\SFood\Onesto Resto 15-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.application
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.exe
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 17-10-15\Onesto\bin\Debug\Onesto.xml
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.application
+D:\SFood\Onesto Resto 17-10-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.application
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.exe
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 18-10-15\Onesto\bin\Debug\Onesto.xml
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 18-10-15\Onesto\obj\x86\Debug\Onesto.application
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.exe.config
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.exe
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.xml
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.application
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.exe
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.pdb
+D:\SFood\Onesto Resto 25-10-15\Onesto\bin\Debug\Onesto.xml
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.application
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+D:\SFood\Onesto Resto 25-10-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+F:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe.config
+F:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.ResolveComReference.cache
+F:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.exe
+F:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.xml
+F:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe.config
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.application
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.pdb
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.xml
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\SFOOD\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\bin\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 26-10-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\bin\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 13-11-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\bin\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto 15-11-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\bin\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 16-11-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.application
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.xml
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM Babeh Project\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\bin\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 28-11-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\bin\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 02-01-15\Onesto\obj\x86\Debug\Onesto.frmOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.exe.config
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\bin\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 03-01-15\Onesto\obj\x86\Debug\Onesto.rptOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.exe.config
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.application
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.exe
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.pdb
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\bin\Debug\Onesto.xml
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.rptOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlAutoPaid.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmOrder.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\RM B P\Onesto Resto\Onesto Resto 14-02-16\Onesto\obj\x86\Debug\Onesto.application
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.exe.config
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.exe
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.xml
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.application
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.exe
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.pdb
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\bin\Debug\Onesto.xml
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmERPSup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.rptOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlAutoPaid.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.application
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.frmERPPInv.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 05-03-16\Onesto\obj\x86\Debug\Onesto.fdlERPSup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.exe.config
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.exe
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.xml
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.pdb
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.exe.manifest
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.application
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.exe
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.pdb
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\bin\Debug\Onesto.xml
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.vbprojResolveAssemblyReference.cache
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmImportKaryawan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmImportPenjualan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmERPSup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlERPPinv.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlERPSup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmERPPInv.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmAbout.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmDocViewer.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmDept.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmTest.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmGroup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmOtorisasi.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmTemplateTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmUser.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.FrmLogin.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSMenuCategory.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmPOSReceipt.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmTable.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.rptOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.rptPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlAutoPaid.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlMenuCategory.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlSettle.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmOrder.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.rptGaji.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.rptTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmGantiPassword.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlApprove.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlDept.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlGroup.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlKaryawan.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlMenu.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlRole.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlTable.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlTemplate.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugas.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmDelegasiTugasList.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.frmPOS.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.Resources.resources
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.vbproj.GenerateResource.Cache
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.exe.manifest
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.application
+G:\Hanafi P\Onesto RMJ\Onesto RMJ 12-03-16\Onesto\obj\x86\Debug\Onesto.fdlERPitem.resources
